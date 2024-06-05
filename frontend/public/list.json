@@ -1,0 +1,59 @@
+[
+    {
+        "id": 1,
+        "name": "Morning Sunshine -Breakfast ",
+        "title": "Pancakes, croissants, cappuccino and many more",
+        "price": 999,
+        "category": "Desert",
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2F822610688209935126%2F&psig=AOvVaw0srtZdKcZjaP8DqtaozeSX&ust=1717495263493000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKDl6ciWv4YDFQAAAAAdAAAAABAJ"
+    },
+    {
+        "id": 2,
+        "name": "Sweet treats for loved ones",
+        "title": "Pancakes, croissants, cappuccino and many more",
+        "price": 0,
+        "category": "Free",
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2F822610688209935126%2F&psig=AOvVaw0srtZdKcZjaP8DqtaozeSX&ust=1717495263493000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKDl6ciWv4YDFQAAAAAdAAAAABAJ"
+    },
+    {
+        "id": 3,
+        "name": "10 mins Bake and Eat ",
+        "title": "Pancakes, croissants, cappuccino and many more",
+        "price": 0,
+        "category": "Free",
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2F822610688209935126%2F&psig=AOvVaw0srtZdKcZjaP8DqtaozeSX&ust=1717495263493000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKDl6ciWv4YDFQAAAAAdAAAAABAJ"
+    },
+    {
+        "id": 4,
+        "name": "Occasion Special ",
+        "title": "Pancakes, croissants, cappuccino and many more",
+        "price": 499,
+        "category": "Desert",
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2F822610688209935126%2F&psig=AOvVaw0srtZdKcZjaP8DqtaozeSX&ust=1717495263493000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKDl6ciWv4YDFQAAAAAdAAAAABAJ"
+    },
+    {
+        "id": 5,
+        "name": "Midnight Craves ",
+        "title": "Pancakes, croissants, cappuccino and many more",
+        "price": 0,
+        "category": "Free",
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2F822610688209935126%2F&psig=AOvVaw0srtZdKcZjaP8DqtaozeSX&ust=1717495263493000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKDl6ciWv4YDFQAAAAAdAAAAABAJ"
+    },
+    {
+        "id": 6,
+        "name": "Selfcare-Pamper Special ",
+        "title": "Pancakes, croissants, cappuccino and many more",
+        "price": 299,
+        "category": "Desert",
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2F822610688209935126%2F&psig=AOvVaw0srtZdKcZjaP8DqtaozeSX&ust=1717495263493000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKDl6ciWv4YDFQAAAAAdAAAAABAJ"
+    },
+    {
+        "id": 7,
+        "name": "30 minutes bake ",
+        "title": "Pancakes, croissants, cappuccino and many more",
+        "price": 0,
+        "category": "Free", 
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2F822610688209935126%2F&psig=AOvVaw0srtZdKcZjaP8DqtaozeSX&ust=1717495263493000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKDl6ciWv4YDFQAAAAAdAAAAABAJ"
+    }
+
+]
